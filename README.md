@@ -15,18 +15,20 @@ To solve a simple linear programming problem using Python’s PuLP library, inte
 
 ### Step 2: Import Libraries:
 - Import necessary libraries, including LpProblem for creating the linear programming problem, LpVariable for defining decision variables, and LpMaximize for setting the objective function to maximization.
-- 
+  
 ### Step 3: Define the Linear Programming Problem:
 - Create a linear programming problem instance using LpProblem(). Set the objective to maximize the profit.
-- 
+  
 ### Step 4: Define Decision Variables:
 - Define the decision variables (e.g., x for the number of units of Product A and y for Product B) using the LpVariable() function, and set their lower bounds to 0 (non-negative).
 - Set the Objective Function and Constraints:
 
-### Step 5: Define the objective function (maximize profit) using the += operator, and add the constraints for labor and machine time using the same operator.
+### Step 5: Define the objective function 
+- Using the += operator, and add the constraints for labor and machine time using the same operator.
 - Solve the Problem and Display Results:
 
-### Step 6: Use the solve() method to find the optimal solution. 
+### Step 6: Use the solve() method 
+- To find the optimal solution. 
 - Print the status, values of the decision variables, and the total profit from the optimal solution.
 
 ## Program :
