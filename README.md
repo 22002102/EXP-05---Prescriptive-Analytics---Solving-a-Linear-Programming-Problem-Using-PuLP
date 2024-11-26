@@ -1,4 +1,4 @@
-# EXP-05---Prescriptive-Analytics---Solving-a-Linear-Programming-Problem-Using-PuLP
+# EXP-05-Prescriptive-Analytics-Solving-a-Linear-Programming-Problem-Using-PuLP
 
 ## Aim :
 To solve a simple linear programming problem using Python’s PuLP library, interpret the optimization results, and provide insights for decision-making.
